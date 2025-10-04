@@ -26,5 +26,5 @@ This system continuously shows the current time in **HH:MM:SS** format, and can 
 ---
 
 ## 📷 Project Images
-![digital_clock1](digital.jpeg)
+![digital_clock1](digital_clock_display.jpeg)
 
